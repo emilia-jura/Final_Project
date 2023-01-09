@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><Resource>
+	<label commandName="Fusion360ToCFD" devLabel="Unable to push data from Fusion 360 to CFD. CFD application may be busy" translation="Fusion 360에서 CFD로 데이터를 푸시할 수 없습니다. CFD 응용프로그램이 사용 중일 수 있습니다."/>
+	<label commandName="Fusion360ToCFD1" devLabel="Unable to push data from Fusion 360 to CFD." translation="Fusion 360에서 CFD로 데이터를 푸시할 수 없습니다."/>
+	<label commandName="Fusion360ToCFDPlugin" devLabel="Unable to communicate with Fusion 360 to CFD plugin." translation="Fusion 360이 CFD 플러그인과 통신할 수 없습니다."/>
+	<label commandName="Fusion360ToCFDPluginBusy" devLabel="Unable to push data from Fusion 360 to CFD. CFD application may be busy" translation="Fusion 360에서 CFD로 데이터를 푸시할 수 없습니다. CFD 응용프로그램이 사용 중일 수 있습니다."/>
+	<label commandName="Fusion360ToMFAdviser" devLabel="Unable to push data from Fusion 360 to Moldflow." translation="Fusion 360에서 Moldflow로 데이터를 푸시할 수 없습니다."/>
+	<label commandName="Fusion360ToMFInsight" devLabel="Unable to push data from Fusion 360 to Moldflow." translation="Fusion 360에서 Moldflow로 데이터를 푸시할 수 없습니다."/>
+	<label commandName="Fusion360ToMFInsightBusy" devLabel="Unable to push data from Fusion 360 to Moldflow. Moldflow application may be busy" translation="Fusion 360에서 Moldflow로 데이터를 푸시할 수 없습니다. Moldflow 응용프로그램이 사용 중일 수 있습니다."/>
+	<label commandName="Fusion360ToMFInsightBusy1" devLabel="Unable to push data from Fusion 360 to Moldflow. Moldflow application may be busy" translation="Fusion 360에서 Moldflow로 데이터를 푸시할 수 없습니다. Moldflow 응용프로그램이 사용 중일 수 있습니다."/>
+	<label commandName="Fusion360ToMFInsightPlugin" devLabel="Unable to communicate with Fusion 360 to Moldflow plugin." translation="Fusion 360이 Moldflow 플러그인과 통신할 수 없습니다."/>
+	<label commandName="Fusion360ToMat" devLabel="Unable to push data from Fusion 360 to CFD." translation="Fusion 360에서 CFD로 데이터를 푸시할 수 없습니다."/>
+	<label commandName="Fusion360ToMoldflowBusy" devLabel="Unable to push data from Fusion 360 to Moldflow. Moldflow application may be busy" translation="Fusion 360에서 Moldflow로 데이터를 푸시할 수 없습니다. Moldflow 응용프로그램이 사용 중일 수 있습니다."/>
+	<label commandName="Fusion360ToMoldflowPlugin" devLabel="Unable to communicate with Fusion 360 to Moldflow plugin." translation="Fusion 360이 Moldflow 플러그인과 통신할 수 없습니다."/>
+	<label commandName="FusionCFDModelAssessmentTool" devLabel="CFD Model Assessment Tool" translation="CFD 모형 평가 도구"/>
+	<label commandName="FusionCFDModelAssessmentToolCommandDefDesc1" devLabel="Open in CFD Model Assessment Tool." translation="CFD 모형 평가 도구에서 엽니다."/>
+	<label commandName="FusionCFDModelAssessmentToolCommandDefDesc2" devLabel="Opens Autodesk CFD and imports your model into the Assessment Tool before creating a new Design Study." translation="새 설계 학습을 작성하기 전에 Autodesk CFD를 열고 모형을 평가 도구로 가져옵니다."/>
+	<label commandName="FusionCompanionDataDoesNotExist" devLabel="The data file does not exist." translation="데이터 파일이 없습니다."/>
+	<label commandName="FusionCompanionInteractiveBodySelection" devLabel="Select body" translation="본체 선택"/>
+	<label commandName="FusionCompanionInteractiveBodySelectionInput" devLabel="Select Body" translation="본체 선택"/>
+	<label commandName="FusionCompanionInteractiveBodyStringInput" devLabel="Body Name" translation="본체 이름"/>
+	<label commandName="FusionCompanionSaveDocumentAndDataFailed" devLabel="Unable to save the document and data files!" translation="문서 및 데이터 파일을 저장할 수 없습니다!"/>
+	<label commandName="FusionCompanionUnableToRemoveFile" devLabel="Unable to remove the file at:" translation="다음 위치에서 파일을 제거할 수 없음:"/>
+	<label commandName="FusionSimulateInCFD" devLabel="Simulate in CFD" translation="CFD에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInCFD2020" devLabel="Simulate in CFD" translation="CFD에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInCFD2021" devLabel="Simulate in CFD" translation="CFD에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInCFD2023" devLabel="Simulate in CFD" translation="CFD에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInCFDCommandDefDesc1" devLabel="Launches your model in Autodesk CFD." translation="Autodesk CFD에서 모형을 시작합니다."/>
+	<label commandName="FusionSimulateInCFDCommandDefDesc2" devLabel="Opens CFD and imports your model into a new file. Setup and run your CFD simulation using your verified geometry." translation="CFD를 열고 모형을 새 파일로 가져옵니다. 확인된 형상을 사용하여 CFD 시뮬레이션을 설정 및 실행합니다."/>
+	<label commandName="FusionSimulateInMoldflowAdviser" devLabel="Simulate in Moldflow Adviser" translation="Moldflow Adviser에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInMoldflowAdviserCommandDefDesc1" devLabel="Launches your model in Autodesk Moldflow Adviser." translation="Autodesk Moldflow Adviser에서 모형을 시작합니다."/>
+	<label commandName="FusionSimulateInMoldflowAdviserCommandDefDesc2" devLabel="Opens Moldflow Adviser and imports your model into a new file. Setup and run your Moldflow simulation using your verified geometry." translation="Moldflow Adviser를 열고 모형을 새 파일로 가져옵니다. 확인된 형상을 사용하여 Moldflow 시뮬레이션을 설정 및 실행합니다."/>
+	<label commandName="FusionSimulateInMoldflowInsight" devLabel="Simulate in Moldflow Insight" translation="Moldflow Insight에서 시뮬레이트"/>
+	<label commandName="FusionSimulateInMoldflowInsightCommandDefDesc1" devLabel="Launches your model in Autodesk Moldflow Insight." translation="Autodesk Moldflow Insight에서 모형을 시작합니다."/>
+	<label commandName="FusionSimulateInMoldflowInsightCommandDefDesc2" devLabel="Opens Moldflow Synergy and imports your model into a new file. Setup and run your Moldflow simulation using your verified geometry." translation="Moldflow Synergy를 열고 모형을 새 파일로 가져옵니다. 확인된 형상을 사용하여 Moldflow 시뮬레이션을 설정 및 실행합니다."/>
+	<label commandName="lclzExpirationMessage" devLabel="Licensing for this product has expired." translation="이 제품에 대한 라이센스가 만료되었습니다."/>
+</Resource>

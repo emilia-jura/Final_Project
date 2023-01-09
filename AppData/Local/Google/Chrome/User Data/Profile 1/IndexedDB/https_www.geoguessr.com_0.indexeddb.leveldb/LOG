@@ -1,0 +1,7 @@
+2022/12/30-17:35:02.686 14f4 Reusing MANIFEST C:\Users\emili\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_www.geoguessr.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/30-17:35:02.686 14f4 Recovering log #4
+2022/12/30-17:35:02.687 14f4 Reusing old log C:\Users\emili\AppData\Local\Google\Chrome\User Data\Profile 1\IndexedDB\https_www.geoguessr.com_0.indexeddb.leveldb/000004.log 
+2022/12/30-17:35:02.867 2e80 Level-0 table #8: started
+2022/12/30-17:35:02.873 2e80 Level-0 table #8: 1953 bytes OK
+2022/12/30-17:35:02.877 2e80 Delete type=0 #4
+2022/12/30-17:35:02.878 2e80 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

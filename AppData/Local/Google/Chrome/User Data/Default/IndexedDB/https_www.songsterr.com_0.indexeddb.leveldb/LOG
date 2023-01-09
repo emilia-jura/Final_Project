@@ -1,0 +1,15 @@
+2022/01/04-17:03:59.701 84e8 Reusing MANIFEST C:\Users\emili\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.songsterr.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/04-17:03:59.701 84e8 Recovering log #15
+2022/01/04-17:03:59.702 84e8 Reusing old log C:\Users\emili\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_www.songsterr.com_0.indexeddb.leveldb/000015.log 
+2022/01/04-21:10:53.349 62f4 Level-0 table #20: started
+2022/01/04-21:10:53.353 62f4 Level-0 table #20: 26462 bytes OK
+2022/01/04-21:10:53.356 62f4 Delete type=0 #15
+2022/01/04-21:10:53.356 62f4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/04-21:10:53.356 62f4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01#\x00p\x00a\x00r\x00t\x00_\x004\x004\x009\x008\x006\x002\x00_\x002\x00_\x00J\x00N\x00g\x001\x00f\x002\x003\x00j\x00q\x00D\x00U\x007\x00i\x00U\x00t\x00H\x00b\x00X\x002\x00N\x00q' @ 405 : 1
+2022/01/04-21:10:53.357 62f4 Compacting 1@1 + 1@2 files
+2022/01/04-21:10:53.363 62f4 Generated table #21@1: 69 keys, 47253 bytes
+2022/01/04-21:10:53.363 62f4 Compacted 1@1 + 1@2 files => 47253 bytes
+2022/01/04-21:10:53.365 62f4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/04-21:10:53.365 62f4 Delete type=2 #17
+2022/01/04-21:10:53.365 62f4 Delete type=2 #20
+2022/01/04-21:10:53.366 62f4 Manual compaction at level-1 from '\x00\x01\x01\x03\x01#\x00p\x00a\x00r\x00t\x00_\x004\x004\x009\x008\x006\x002\x00_\x002\x00_\x00J\x00N\x00g\x001\x00f\x002\x003\x00j\x00q\x00D\x00U\x007\x00i\x00U\x00t\x00H\x00b\x00X\x002\x00N\x00q' @ 405 : 1 .. (end); will stop at (end)
